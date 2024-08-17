@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Nexus RBLX","Watching Nexus RBLX"];
+const statusMessages = ["Jet2.Com","Package Holidays You Can Trust"];
 
 
 let currentIndex = 0;
