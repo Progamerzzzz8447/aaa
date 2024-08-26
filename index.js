@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Jet2.Com","Package Holidays You Can Trust"];
+const statusMessages = ["Solar Tech","Watching Support Tickets"];
 
 
 let currentIndex = 0;
