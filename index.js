@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Solar Tech","Watching Support Tickets"];
+const statusMessages = ["KFC|Roblox","KFC|Roblox"];
 
 
 let currentIndex = 0;
